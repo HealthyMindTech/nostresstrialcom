@@ -21,21 +21,57 @@ export const homeObjOne = {
     lightBg: true,
     lightText: false,
     lightTextDesc: false,
-    topLine: 'NoStressTrial Protocol Designer and Investigator App',
-    headline: 'Enabling better trial designs',
+    topLine: 'NoStressTrial Protocol Designer',
+    headline: 'Designing better and more efficient studies reduces timelines and costs',
     description:
-      "- Designing better and more efficient studies reduces timelines and costs. \n\n \
-      - Better experience for sites means more patients. \n\n \
-      - Getting patient input helps measure what matters most.",
-    buttonLabel: 'Learn More',
+      "An easy-to-use, visual, collaborative, patient-centric and data-driven protocol designer for your next study. ",
+    buttonLabel: 'For Sponsors and CROs',
     buttonLink: '/industry',
     imgStart: 'start',
     img: require('../../images/svg-2.svg'),
     alt: 'Vault',
     start: 'true'
   };
-  
+
+  export const homeObjThree = {
+    primary: false,
+    lightBg: true,
+    lightText: false,
+    lightTextDesc: false,
+    topLine: 'NoStressTrial Investigator App',
+    headline: 'Better experience for sites means more patients',
+    description:
+      "Make your study more attractive with an accessible process for site investigators. \n \
+      - The trial information at your fingertips - on your computer, smartphone or tablet \n \
+      - Get questions answered in time, reduce likelihood of errors and protocol deviations \n\
+      - If you reduce the time spent on clinical trial admin work, investigators can spend more time taking care of the patients, and overall being able to see more patients \n \
+        ",
+    buttonLabel: 'For Site Investigators',
+    buttonLink: '/investigators',
+    imgStart: '',
+    img: require('../../images/svg-1.svg'),
+    alt: 'Vault',
+    start: ''
+  };
+
   export const homeObjFour = {
+    primary: false,
+    lightBg: true,
+    lightText: false,
+    lightTextDesc: false,
+    topLine: 'Patient Centricity',
+    headline: 'Getting patient input helps measure what matters most',
+    description:
+      "NoStressTrial enables collaboration and transparency between sponsors, patients, clinicians, and regulators. Patients are empowered to easily provide input to the trial protocol, to make sure it is feasible and it measures what matters.",
+    buttonLabel: 'For Patients',
+    buttonLink: '/patients',
+    imgStart: 'start',
+    img: require('../../images/svg-2.svg'),
+    alt: 'Vault',
+    start: 'true'
+  };
+  
+  export const homeObjFive = {
     primary: true,
     lightBg: true,
     lightText: false,
@@ -51,7 +87,7 @@ export const homeObjOne = {
     start: ''
   };
 
-  export const homeObjFive = {
+  export const homeObjSix = {
     lightBg: true,
     lightText: false,
     lightTextDesc: false,
