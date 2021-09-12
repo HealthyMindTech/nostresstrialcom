@@ -6,3 +6,6 @@ Run application: `npm start`
 
 Deploy to GitHub Pages: `npm run deploy` (it will push to branch `gh-pages`)
 
+## Sources
+
+Illustrations: https://undraw.co

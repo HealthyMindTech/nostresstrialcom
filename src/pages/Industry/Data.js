@@ -9,7 +9,7 @@ export const homeObjOne = {
     buttonLabel: 'Get Started',
     buttonLink: '/login',
     imgStart: '',
-    img: require('../../images/svg-1.svg'),
+    img: require('../../images/social_dashboard.svg'),
     alt: ''
   };
   
@@ -52,7 +52,7 @@ export const homeObjOne = {
       ",
     //buttonLabel: 'Learn More',
     imgStart: '',
-    img: require('../../images/svg-1.svg'),
+    img: require('../../images/shared_goals.svg'),
     alt: ''
   };
   

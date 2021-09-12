@@ -11,7 +11,7 @@ export const homeObjOne = {
     buttonLabel: 'Get Started',
     buttonLink: '/login',
     imgStart: '',
-    img: require('../../images/svg-1.svg'),
+    img: require('../../images/social_dashboard.svg'),
     alt: '',
     start: ''
   };
@@ -28,7 +28,7 @@ export const homeObjOne = {
     buttonLabel: 'For Sponsors and CROs',
     buttonLink: '/industry',
     imgStart: 'start',
-    img: require('../../images/svg-2.svg'),
+    img: require('../../images/online_collab.svg'),
     alt: 'Vault',
     start: 'true'
   };
@@ -49,7 +49,7 @@ export const homeObjOne = {
     buttonLabel: 'For Site Investigators',
     buttonLink: '/investigators',
     imgStart: '',
-    img: require('../../images/svg-1.svg'),
+    img: require('../../images/shared_goals.svg'),
     alt: 'Vault',
     start: ''
   };
@@ -66,7 +66,7 @@ export const homeObjOne = {
     buttonLabel: 'For Patients',
     buttonLink: '/patients',
     imgStart: 'start',
-    img: require('../../images/svg-2.svg'),
+    img: require('../../images/sharing_articles.svg'),
     alt: 'Vault',
     start: 'true'
   };
@@ -98,7 +98,7 @@ export const homeObjOne = {
     buttonLabel: 'Get Started',
     buttonLink: '/login',
     imgStart: 'start',
-    img: require('../../images/svg-1.svg'),
+    img: require('../../images/onboarding.svg'),
     alt: 'Vault',
     start: 'true'
   };
@@ -114,7 +114,7 @@ export const homeObjOne = {
     personTitle: 'Digital Technologies Lead',
     personCompany: 'Pharma Company',
     imgStart: 'start',
-    img: require('../../images/profile.jpg'),
+    img: require('../../images/profile.png'),
     alt: '',
     start: 'true'
   };

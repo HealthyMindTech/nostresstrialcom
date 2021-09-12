@@ -9,7 +9,7 @@ export const homeObjOne = {
     buttonLabel: 'Get Started',
     buttonLink: '/login',
     imgStart: '',
-    img: require('../../images/svg-1.svg'),
+    img: require('../../images/sharing_articles.svg'),
     alt: ''
   };
   
@@ -23,7 +23,7 @@ export const homeObjOne = {
       'As a patient, you can provide input to proposed clinical trial designs, ensure the studies intend to measure what matters for you, that they are inclusive, and that they are not too burdensome or complex.',
     //buttonLabel: 'Sign Up Now',
     imgStart: 'start',
-    img: require('../../images/svg-1.svg'),
+    img: require('../../images/project_feedback.svg'),
     alt: ''
   };
   
@@ -38,6 +38,6 @@ export const homeObjOne = {
     buttonLabel: 'Get Started',
     buttonLink: '/login',
     imgStart: '',
-    img: require('../../images/svg-1.svg'),
+    img: require('../../images/onboarding.svg'),
     alt: ''
   };

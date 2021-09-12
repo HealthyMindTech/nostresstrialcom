@@ -9,7 +9,7 @@ export const homeObjOne = {
     buttonLabel: 'Get Started',
     buttonLink: '/login',
     imgStart: '',
-    img: require('../../images/svg-1.svg'),
+    img: require('../../images/realtime.svg'),
     alt: ''
   };
   
@@ -27,7 +27,7 @@ export const homeObjOne = {
       - service more patients.',
     //buttonLabel: 'Learn More',
     imgStart: 'start',
-    img: require('../../images/svg-1.svg'),
+    img: require('../../images/shared_goals.svg'),
     alt: 'Vault'
   };
   
@@ -41,7 +41,7 @@ export const homeObjOne = {
       'Never ever have to worry again about the order of assessments and procedures, inclusion/exclusion criteria, recent updates to the protocol, or specific trial requirements. You have a clinical trial aid in your pocket if you need it. ',
     //buttonLabel: 'Sign Up Now',
     imgStart: '',
-    img: require('../../images/svg-1.svg'),
+    img: require('../../images/mobile_flow_white.svg'),
     alt: 'Vault'
   };
 
@@ -56,6 +56,6 @@ export const homeObjOne = {
     buttonLabel: 'Get Started',
     buttonLink: '/login',
     imgStart: 'start',
-    img: require('../../images/svg-1.svg'),
+    img: require('../../images/download.svg'),
     alt: 'Vault'
   };
