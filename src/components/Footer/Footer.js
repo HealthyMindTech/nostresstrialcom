@@ -78,9 +78,9 @@ function Footer() {
         <SocialMediaWrap>
           <SocialLogo to='/'>
             <SocialIcon />
-            NoStressTrial
+            Tronocol
           </SocialLogo>
-          <WebsiteRights>NoStressTrial © 2021</WebsiteRights>
+          <WebsiteRights>Tronocol © 2021</WebsiteRights>
           <SocialIcons>
             <SocialIconLink href='/' target='_blank' aria-label='Facebook'>
               <FaFacebook />

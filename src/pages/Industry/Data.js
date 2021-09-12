@@ -18,7 +18,7 @@ export const homeObjOne = {
     lightText: false,
     lightTopLine: false,
     lightTextDesc: false,
-    topLine: 'NoStressTrial Protocol Designer',
+    topLine: 'Tronocol Protocol Designer',
     headline: 'Designing better and more efficient studies reduces timelines and costs',
     description: 'An easy-to-use, visual, collaborative, patient-centric and data-driven protocol designer for your next study: \n \
     - Interactively design clinical trials \n \
@@ -40,7 +40,7 @@ export const homeObjOne = {
     lightTopLine: false,
     lightText: false,
     lightTextDesc: false,
-    topLine: 'NoStressTrial Investigator app',
+    topLine: 'Tronocol Investigator app',
     headline: 'Better experience for sites means more patients',
     description:
       "The Investigator app aids your study investigators with completing the study: \n \

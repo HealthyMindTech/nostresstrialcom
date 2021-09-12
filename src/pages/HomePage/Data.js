@@ -21,7 +21,7 @@ export const homeObjOne = {
     lightBg: true,
     lightText: false,
     lightTextDesc: false,
-    topLine: 'NoStressTrial Protocol Designer',
+    topLine: 'Tronocol Protocol Designer',
     headline: 'Designing better and more efficient studies reduces timelines and costs',
     description:
       "An easy-to-use, visual, collaborative, patient-centric and data-driven protocol designer for your next study. ",
@@ -38,7 +38,7 @@ export const homeObjOne = {
     lightBg: true,
     lightText: false,
     lightTextDesc: false,
-    topLine: 'NoStressTrial Investigator App',
+    topLine: 'Tronocol Investigator App',
     headline: 'Better experience for sites means more patients',
     description:
       "Make your study more attractive with an accessible process for site investigators. \n \
@@ -62,7 +62,7 @@ export const homeObjOne = {
     topLine: 'Patient Centricity',
     headline: 'Getting patient input helps measure what matters most',
     description:
-      "NoStressTrial enables collaboration and transparency between sponsors, patients, clinicians, and regulators. Patients are empowered to easily provide input to the trial protocol, to make sure it is feasible and it measures what matters.",
+      "Tronocol enables collaboration and transparency between sponsors, patients, clinicians, and regulators. Patients are empowered to easily provide input to the trial protocol, to make sure it is feasible and it measures what matters.",
     buttonLabel: 'For Patients',
     buttonLink: '/patients',
     imgStart: 'start',
@@ -109,7 +109,7 @@ export const homeObjOne = {
     lightText: true,
     lightTextDesc: true,
     description:
-      '"NoStressTrial is the most amazing and ground-breaking tech in health that I have seen over the past 7 years."',
+      '"Tronocol is the most amazing and ground-breaking tech in health that I have seen over the past 7 years."',
     personName: 'Anonymous',
     personTitle: 'Digital Technologies Lead',
     personCompany: 'Pharma Company',

@@ -1,4 +1,4 @@
-# NoStressTrial
+# Tronocol
 
 ## Running and deploying
 

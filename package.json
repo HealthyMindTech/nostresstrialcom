@@ -1,5 +1,5 @@
 {
-  "name": "nostresstrialcom",
+  "name": "tronocol",
   "homepage": "https://healthymindtech.github.io",
   "version": "0.1.0",
   "private": true,
@@ -24,7 +24,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "echo 'nostresstrial.com' > ./build/CNAME && gh-pages -d build"
+    "deploy": "echo 'tronocol.com' > ./build/CNAME && gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [

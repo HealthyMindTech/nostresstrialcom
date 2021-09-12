@@ -76,7 +76,7 @@ function Navbar() {
                 <NavbarContainer>
                     <NavLogo to='/'> 
                         <NavIcon />
-                            NoStressTrial
+                            Tronocol
                     </NavLogo>
                     <HamburgerIcon onClick={handleClick}>
                         {click ? <FaTimes /> : <FaBars />}

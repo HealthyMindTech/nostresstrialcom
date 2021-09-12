@@ -5,7 +5,7 @@ export const homeObjOne = {
     topLine: 'For Patients',
     headline: 'Easily review trial protocols to make sure it measures what matters!',
     description:
-      'NoStressTrial enables collaboration and transparency between sponsors, patients, clinicians, and regulators. Patients are empowered to easily provide input to the trial protocol, to make sure it is feasible and it measures what matters. ',
+      'Tronocol enables collaboration and transparency between sponsors, patients, clinicians, and regulators. Patients are empowered to easily provide input to the trial protocol, to make sure it is feasible and it measures what matters. ',
     buttonLabel: 'Get Started',
     buttonLink: '/login',
     imgStart: '',

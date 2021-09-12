@@ -35,7 +35,7 @@ export const homeObjOne = {
     lightBg: true,
     lightText: false,
     lightTextDesc: false,
-    topLine: 'NoStressTrial Investigator App',
+    topLine: 'Tronocol Investigator App',
     headline: 'Easy to follow visual visit flows',
     description:
       'Never ever have to worry again about the order of assessments and procedures, inclusion/exclusion criteria, recent updates to the protocol, or specific trial requirements. You have a clinical trial aid in your pocket if you need it. ',
