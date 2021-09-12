@@ -1,4 +1,4 @@
-import React, { Fragment } from 'react'
+import React from 'react'
 import {TSec, TRow, TColumn, TextWrapper, TopLine, Subtitle, ImgWrapper, Img} from './Testimonial.elements'
 import { Container } from '../../globalStyles'
 

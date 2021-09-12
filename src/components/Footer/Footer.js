@@ -91,7 +91,7 @@ function Footer() {
             <SocialIconLink href='/' target='_blank' aria-label='Twitter'>
               <FaTwitter />
             </SocialIconLink>
-            <SocialIconLink href='/' target='_blank' aria-label='LinkedIn'>
+            <SocialIconLink href='https://www.linkedin.com/company/tronocol' target='_blank' aria-label='LinkedIn'>
               <FaLinkedin />
             </SocialIconLink>
           </SocialIcons>
