@@ -31,7 +31,7 @@ import {
 function Footer() {
   return (
     <FooterContainer>
-      <FooterSubscription>
+      {/*<FooterSubscription>
         <FooterSubHeading>
           Join our newsletter to get the latest trends and stay updated on what we're working on. 
         </FooterSubHeading>
@@ -40,7 +40,7 @@ function Footer() {
           <FormInput name='email' type='email' placeholder='Your Email' />
           <Button fontBig>Subscribe</Button>
         </Form>
-      </FooterSubscription>
+      </FooterSubscription>*/}
       <FooterLinksContainer>
         <FooterLinksWrapper>
           <FooterLinkItems>
