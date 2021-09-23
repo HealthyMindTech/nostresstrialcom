@@ -17,7 +17,7 @@ export const homeObjOne = {
     lightBg: true,
     lightText: false,
     lightTextDesc: false,
-    topLine: 'Optimize clinical trial work',
+    topLine: 'Optimize clinical trial workflows',
     headline: 'Focus on what matters: helping the patients',
     description:
       'The clinical trial protocol is searchable from your computer, tablet or smartphone. \n \
