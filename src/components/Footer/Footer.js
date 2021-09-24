@@ -27,8 +27,11 @@ import {
   SocialIcons,
   SocialIconLink
 } from './Footer.elements';
+import useGaTracker from '../../useGaTracker';
 
 function Footer() {
+  useGaTracker();
+
   return (
     <FooterContainer>
       {/*<FooterSubscription>
