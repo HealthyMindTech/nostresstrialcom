@@ -7,6 +7,8 @@ import Industry from './pages/Industry/Industry';
 import Investigators from './pages/Investigators/Investigators';
 import Patients from './pages/Patients/Patients';
 import Login from './pages/Login/Login';
+import Company from './pages/Company/Company';
+import Contact from './pages/Contact/Contact';
 import ScrollToTop from './components/ScrollToTop';
 
 function App() {
@@ -22,6 +24,8 @@ function App() {
             <Route path='/investigators' component={Investigators} />
             <Route path='/patients' component={Patients} />
             <Route path='/login' component={Login} />
+            <Route path='/company' component={Company} />
+            <Route path='/contact' component={Contact} />
           </Switch>
           <Footer />
       </Router>

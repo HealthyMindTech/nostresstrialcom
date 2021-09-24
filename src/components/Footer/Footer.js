@@ -80,18 +80,18 @@ function Footer() {
             <SocialIcon />
             Tronocol
           </SocialLogo>
-          <WebsiteRights>Tronocol © 2021</WebsiteRights>
+          <WebsiteRights>Tronocol by Healthy Mind Tech © 2021</WebsiteRights>
           <SocialIcons>
-            <SocialIconLink href='/' target='_blank' aria-label='Facebook'>
+            <SocialIconLink href='https://www.facebook.com/healthymindtech' target='_blank' aria-label='Facebook'>
               <FaFacebook />
             </SocialIconLink>
-            <SocialIconLink href='/' target='_blank' aria-label='YouTube' >
+            <SocialIconLink href='https://www.youtube.com/channel/UC6sEk6JHHwxy-he1SH8v3lA' target='_blank' aria-label='YouTube' >
               <FaYoutube />
             </SocialIconLink>
-            <SocialIconLink href='/' target='_blank' aria-label='Twitter'>
+            <SocialIconLink href='https://twitter.com/HealthyMindTech' target='_blank' aria-label='Twitter'>
               <FaTwitter />
-            </SocialIconLink>
-            <SocialIconLink href='https://www.linkedin.com/company/tronocol' target='_blank' aria-label='LinkedIn'>
+        </SocialIconLink>
+            <SocialIconLink href='https://www.linkedin.com/company/healthymindtech' target='_blank' aria-label='LinkedIn'>
               <FaLinkedin />
             </SocialIconLink>
           </SocialIcons>
